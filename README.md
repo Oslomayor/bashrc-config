@@ -1,4 +1,4 @@
-# bashrc-repo
+# bashrc
 my Ubuntu bash config file
 
 ### useage
