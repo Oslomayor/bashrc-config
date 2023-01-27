@@ -1,2 +1,5 @@
 # bashrc-repo
-my bashrc
+my Ubuntu bash config file
+
+### useage
+rename to .bashrc, placed in the user root directory.
