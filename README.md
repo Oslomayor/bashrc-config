@@ -1,0 +1,2 @@
+# bashrc-repo
+my bashrc
